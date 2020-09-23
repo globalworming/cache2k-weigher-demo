@@ -2,7 +2,7 @@
  # Weigher 
  You can choose to limit cache capacity by weight instead of number of entries (cache2k version >[1.4.0](https://github.com/cache2k/cache2k/releases/tag/v1.4.0.Final)). This allows for example limiting by (estimated) memory consumption. 
  
- This demo also shows cache2ks event listeners and statistics. 
+ This demo also shows cache2ks event listeners and statistics and live adjustments of the cache capacity.
  
  
  Use `mvn spring-boot:run` and `yarn --cwd limited-exhibit start` to start the application, http://localhost:3000 should open automatically
