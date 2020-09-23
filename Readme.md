@@ -5,7 +5,7 @@
  This demo also shows cache2ks event listeners and statistics. 
  
  
- Use `mvn spring-boot:run` to start the application, then go to http://localhost:8080
+ Use `mvn spring-boot:run` and `yarn --cwd limited-exhibit start` to start the application, http://localhost:3000 should open automatically
  
  Or check out the [Public Demo](https://weigher.azurewebsites.net/)
  
